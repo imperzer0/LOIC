@@ -23,6 +23,8 @@ http://www.microsoft.com/downloads/en/details.aspx?FamilyID=ab99342f-5d1a-413d-8
 Run debug binaries with Mono or Wine.
 Read the wiki at https://github.com/NewEraCracker/LOIC/wiki/_pages for updated instructions.
 
+UPD: Now you can use script loic-nodeps.sh. It acts similarily to loic.sh except it does not install dependencies automatically. Dependencies are `mono runtime` and `git`
+
 ## HIVEMIND/HIDDEN MODE
 
 HIVEMIND mode will connect your client to an IRC server so it can be controlled remotely.
